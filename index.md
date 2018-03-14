@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Oregon State University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Autzen classroom (Main Floor) at the Valley Library, 121 The Valley Library, Corvallis, OR"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "University of Oregon"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Price Science Commons Visualization Lab at Price Science Commons and Research Library,  1344 Franklin Blvd, Eugene, OR 97403"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "44.565298,-123.276014"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "March 23rd, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-03-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-03-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+latlng: "44.0382472,-123.099361"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "March 16, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2018-03-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2018-03-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Sarah Seymore", "Steve Van Tuyl", "Clara Llebot"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Jonathan Cain", "Ryan Wick"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["clara.llebot@oregonstate.edu", "sseymore@uoregon.edu", "jocain@uoregon.edu", "Steve.VanTuyl@oregonstate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
